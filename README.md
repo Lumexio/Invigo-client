@@ -1,4 +1,4 @@
-# pocketstock
+# Vaultt
 
 ## Project setup
 ```
