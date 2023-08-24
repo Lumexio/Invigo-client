@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["layout-layouts-auth-vue"],{"3bb0":function(t,n,a){"use strict";a.r(n);var e=function(){var t=this,n=t._self._c;return n("div",{class:[!0===this.$store.getters.hasdarkflag?"black-main":"white-main"]},[n("router-view")],1)},s=[],u={name:"auth",components:{}},c=u,i=(a("5aff"),a("2877")),o=Object(i["a"])(c,e,s,!1,null,null,null);n["default"]=o.exports},"5aff":function(t,n,a){"use strict";a("9c8d")},"9c8d":function(t,n,a){}}]);
+//# sourceMappingURL=layout-layouts-auth-vue.9bcf798e.js.map
